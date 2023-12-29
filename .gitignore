@@ -1,4 +1,4 @@
-**/.port_coordination
+**/.port_coordination8
 **/alluxio-site.properties*
 !**/alluxio-site.properties.template
 **/nb-configuration*.xml
